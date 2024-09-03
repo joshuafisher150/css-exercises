@@ -1,0 +1,20 @@
+/* styles.css */
+
+.p {
+    background-color: #ffb6c1;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.p3 {
+    font-size: 24px;
+}
+
+#one {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#two {
+    background-color: #90ee90;
+    font-size: 24px;
+}
